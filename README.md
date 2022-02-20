@@ -10,7 +10,7 @@ UC Berkeley Data Analytics Bootcamp Final Project
 |--------------------|----------------|-----------------------------------------------------|
 |Jacqueline Tsodikova|   Technology   |     Will decide which technologies will be used     |
 |  Alejandra Magana  |     Github     |          Responsible for Github repository          |
-|   Michael Albers   |    Database    |Create mockup of a database with a set of sample data|
+|   Michael Albers   |    Database    |Create NEO database and ETL process for Near Earth Objects (NEO) and Close Approaches  data|
 |    Robert Janke    |Machine Learning|      Manage the Machine Learning Model & Design     |
 |     Fred Jambor    |Machine Learning|      Manage the Machine Learning Model & Design     |
 
