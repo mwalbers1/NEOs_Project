@@ -1,7 +1,7 @@
 # NEOs Project
-UC Berkeley Data Analytics Bootcamp Final Project
+## UC Berkeley Data Analytics Bootcamp Final Project
 
-<a href= "https://docs.google.com/presentation/d/1BQlw8KsA-17b0CTgA-Jki0ccUJvn-29yCgjgTW-MsKI/edit?usp=sharing" target="_blank">NEOs Google Slides</a> 
+<a href= "https://docs.google.com/presentation/d/1zPoIlbf9m0RpxHpryJ49740RZo76CsuIOMO2HVSvbV4/edit#slide=id.gd1db4d5c96_0_15" target="_blank">NEOs Project - Demo Day Slides</a> 
 
 <a href= "https://public.tableau.com/views/NEOsProject/NEOsProject?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Story</a> 
 
